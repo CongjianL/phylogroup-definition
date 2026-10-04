@@ -1,0 +1,3 @@
+interface:
+  display_name: "Phylogroup Definition"
+  short_description: "Define stable microbial phylogroups from tree, AAI, and ANI/AF evidence."

@@ -90,7 +90,7 @@ Use `scripts/coassignment.py` to build a deterministic co-assignment matrix from
 
 ### 6. Compare views
 
-Compare the tree, AI, and ANI/AF partitions with at least:
+Compare the tree, AAI, and ANI/AF partitions with at least:
 
 - Adjusted Rand Index (ARI);
 - Normalized Mutual Information (NMI);
